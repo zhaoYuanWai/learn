@@ -1,0 +1,4 @@
+server:
+  servlet:
+    context-path: /zhao
+  port: 8888
